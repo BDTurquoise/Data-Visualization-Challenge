@@ -1,3 +1,8 @@
+# Data-Visualization-Challenge Resubmission
+I received feedback from the Central Grader that my line graph was incorrect. I have fixed the graph and am resubmitting the assignment for grading.
+Thank you.
+Bradley Curthoys.
+
 # Data-Visualization-Challenge
 Module 5 Challenge files
 
